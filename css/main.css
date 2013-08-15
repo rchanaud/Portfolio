@@ -11,8 +11,9 @@
     font-weight: normal;
     font-style: normal;
 }
+h1;h2,h3,h4,h5,p,span,small,li,a { text-rendering: optimizeLegibility; }
 h1,h2,h3,h4 { font-family: 'denseregular'; }
-h1 { font-size: 8em; font-weight: 400; }
+h1 { font-size: 8em; font-weight: 400; letter-spacing: 2px; }
 
 /******************************
   MAIN
